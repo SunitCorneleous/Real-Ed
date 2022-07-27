@@ -1,0 +1,14 @@
+.carousel-h2 {
+  font-size: 4rem;
+}
+
+.btn-ed {
+  background-color: #289bde;
+  border: none;
+  color: #fff;
+}
+
+.btn-ed:hover {
+  background-color: #289bde;
+  color: #fff;
+}
