@@ -1,10 +1,14 @@
 .btn-ed {
-  background-color: #289bde;
+  background-color: #289bde !important;
   border: none;
-  color: #fff;
+  color: #fff !important;
 }
 
-.btn-ed:hover {
-  background-color: #289bde;
-  color: #fff;
+.card-title {
+  color: #4a4a4a;
+}
+
+.price {
+  color: #289bde;
+  font-size: 1.5rem;
 }
